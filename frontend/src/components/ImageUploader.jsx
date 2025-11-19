@@ -28,7 +28,12 @@ export default function ImageUploader({ onUpload }) {
 
   return (
     <div>
-      <input type="file" accept="image/png, image/jpeg" onChange={handleUpload} />
+      {/* Custom Upload Button */}
+      <label className="upload-btn">
+        Choose Image
+        <input type="file" accept="image/png, image/jpeg" onChange={handleUpload} />
+      </label>
+
       {progress > 0 && <p>Uploading: {progress}%</p>}
     </div>
   );
