@@ -1,11 +1,11 @@
-# 🌟 Mini Image Gallery – Full Stack Assignment
+#  Mini Image Gallery – Full Stack Assignment
 
 A simple and responsive full-stack image gallery application where users can upload images one at a time, view them in a grid, and delete them.  
 This project was built as part of an internship assignment for **Markopolo.ai**.
 
 ---
 
-## 🚀 Tech Stack
+##  Tech Stack
 
 ### **Frontend**
 - React (Vite)
@@ -19,7 +19,7 @@ This project was built as part of an internship assignment for **Markopolo.ai**.
 
 ---
 
-## 📦 Features
+## Features
 
 - ✔ Upload one image at a time  
 - ✔ JPEG/PNG support  
@@ -33,7 +33,7 @@ This project was built as part of an internship assignment for **Markopolo.ai**.
 
 ---
 
-## 📁 Project Structure
+##  Project Structure
 
 ```
 Mini-Image/
@@ -59,9 +59,9 @@ Mini-Image/
 
 ---
 
-# 🖥 How to Run the Project
+#  How to Run the Project
 
-## 🔧 1. Backend Setup (Node + Express)
+##  1. Backend Setup (Node + Express)
 
 ### Step 1 — Go to backend folder
 ```
@@ -82,7 +82,7 @@ Backend runs at: **http://localhost:5000**
 
 ---
 
-## 💻 2. Frontend Setup (React + Vite)
+##  2. Frontend Setup (React + Vite)
 
 ### Step 1 — Go to frontend folder
 ```
@@ -108,25 +108,25 @@ Frontend runs at: **http://localhost:5173**
 
 ---
 
-# 🧠 How the App Works
+#  How the App Works
 
-### 📤 Upload Image
+###  Upload Image
 - Click **Choose Image** (custom animated button)
 - Select a JPG/PNG file
 - Upload progress displays
 - Image appears instantly in gallery
 
-### 🗑 Delete Image
+###  Delete Image
 - Click **Delete** under any image
 - Image removed from in-memory storage
 
-### 🔄 In-Memory Backend
+###  In-Memory Backend
 - All images stored in backend array  
 - When server restarts, images reset (as required)
 
 ---
 
-# 🎨 Design Choices
+#  Design Choices
 
 ### **Why Node.js + Express?**
 - Lightweight and fast  
@@ -151,7 +151,7 @@ Frontend runs at: **http://localhost:5173**
 
 ---
 
-# 🌟 Bonus Tasks Completed
+#  Bonus Tasks Completed
 
 - ✔ Responsive UI  
 - ✔ Modern animations  
@@ -159,9 +159,9 @@ Frontend runs at: **http://localhost:5173**
 
 ---
 
-# 📮 Author
+#  Author
 
 **Lakshmi Srujana Sanaka**  
-📧 Email: **sanakalakshmisrujana@gmail.com**  
-📱 Phone: **+91 9705804902**
+ Email: **sanakalakshmisrujana@gmail.com**  
+ Phone: **+91 9705804902**
 
